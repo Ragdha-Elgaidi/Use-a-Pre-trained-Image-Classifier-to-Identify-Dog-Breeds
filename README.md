@@ -1,4 +1,5 @@
 # **Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds**
+It's apart of my nanodegree program "**AI Programming with Python**"
 ## **Principal Objectives**
    1- Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.
 
